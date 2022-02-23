@@ -1,0 +1,24 @@
+{
+  "books": [
+    {
+      "title": "The 47 Laws of Power",
+      "author": "Tolani",
+      "id": 1
+    },
+    {
+      "title": "The Great Gatsby",
+      "author": "F.Scott Fitz",
+      "id": 2
+    },
+    {
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "id": 3
+    },
+    {
+      "title": "Depression",
+      "author": "Mojang",
+      "id": 4
+    }
+  ]
+}
